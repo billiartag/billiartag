@@ -30,6 +30,6 @@ Some skills that I proud of:
 
 > I rather like to be contacted from LinkedIn than email (just saying and it is a faster way to communicate than using emails)
 
-- [Email](mailto:billy.gondokusuma@hotmail.com)
+- Email? See sidebar ⬅️
 
 `Updated on August '24`
