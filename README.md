@@ -19,9 +19,12 @@ Working for iSTTS (my campus) during internship period, about 5 months, built a 
 ## 🥊 Skills
 
 Some skills that I proud of: 
-- Laravel (and Filament)
-- Flutter
+- Mobile Dev. (Flutter - Android and iOS)
+- Web Dev. (Laravel, Filament)
+- Machine Learning (making models for computer vision, they are cool-cool)
+- Writing (documenting, tutorials, etc etc)
 - operating Linux with their scripting mess
+- and many others skills..
 
 
 ## 🔗 Reach Me By...
@@ -32,4 +35,6 @@ Some skills that I proud of:
 
 - Email? See sidebar ⬅️
 
-`Updated on August '24`
+Interested to see more? visit my [website](https://217116585.xyz)
+
+`Updated on Sept. '24`
