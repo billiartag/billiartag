@@ -1,12 +1,16 @@
-Hi this is [biliartag](https://github.com/billiartag) and you can call me by Billy or Cosmas. I am a Computer Science graduate who currently working as a Software Engineer, and currently working on Laravel and Flutter projects.
+Hi this is [biliartag](https://github.com/billiartag) and you can call me by Billy or Cosmas. I am a Computer Science graduate who currently working as a Software Engineer.
 
 ## 💼 Career
 
-Graduated by late 2021, I've been working for 2+ years as Software Engineer. Currently working as a Software Engineer at Tancorp (PT. Tancorp Abadi Nusantara) since 2024. Building projects using Laravel and Flutter applications.
+Graduated by late 2021, I've been working for 3+ years as Software Engineer. Currently working as a Software Engineer at Salam Pacific Indonesia Lines since 2025. Compiling Java programs, also doing side-projects using Laravel and Flutter applications👀.
 
-> Tancorp (2024 - present)
+> Salam Pacific Indonesia Lines (PT. SPIL) (2025 - present) 
 
-Currently working here as a Software Engineer(well, more as a real Full Stack Engineer) from the start of 2024. Most of the projects ae Laravel and Flutter projects, and not closing any opportunity to learn other things. Have handful number of projects to handle, and counting more LOL. Some good remarks such as publishing app to Apple's App Store and Google Play Store from scratch, manage LXC containers in Proxmox to host Laravel projects using Debian, and many more...
+Currenty working for PT. SPIL as their Software Engineer (supervisor/team leader in term of position, but goes as just another Software Engineer) from the start of 2025. Handling their main internal business application using Java stack (enterprise-y right?).
+
+> Tancorp (2024 - 2025)
+
+Was working as a Software Engineer (well, more as a real Full Stack Engineer) from the start of 2024. Most of the projects ae Laravel and Flutter projects, and not closing any opportunity to learn other things. Have handful number of projects to handle. Some good remarks such as publishing app to Apple's App Store and Google Play Store from scratch, manage LXC containers in Proxmox to host Laravel projects using Debian, and many more...
 
 > Techanic (2022 - 2023)
 
@@ -24,17 +28,14 @@ Some skills that I proud of:
 - Machine Learning (making models for computer vision, they are cool-cool)
 - Writing (documenting, tutorials, etc etc)
 - operating Linux with their scripting mess
+- bluffing, i like to talking meaningless things
 - and many others skills..
 
 
 ## 🔗 Reach Me By...
 
-- [LinkedIn](https://www.linkedin.com/in/billy-gondokusuma/) ⬅️ More infos here
-
-> I rather like to be contacted from LinkedIn than email (just saying and it is a faster way to communicate than using emails)
-
-- Email? See sidebar ⬅️
+- [LinkedIn](https://www.linkedin.com/in/billy-gondokusuma/) ⬅️ More infos here, don't worry, just DM me
 
 Interested to see more? visit my [website](https://217116585.xyz)
 
-`Updated on Sept. '24`
+`Updated on Aug. '25`
